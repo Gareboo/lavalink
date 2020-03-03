@@ -1,6 +1,6 @@
 server: # REST and WS server
-  port: 2333
-  address: localhost
+  port: 300
+  address: https://tabby-fluff-zircon.glitch.me
 spring:
   main:
     banner-mode: log
